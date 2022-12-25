@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListViewAndRecyclerView</string>
+    <string-array name="categories">
+        <item>Meat</item>
+        <item>Vegetables</item>
+        <item>Fruits</item>
+        <item>Juices</item>
+        <item>Hot drinks</item>
+    </string-array>
+</resources>
+
